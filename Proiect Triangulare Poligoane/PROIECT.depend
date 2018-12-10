@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1544357057 source:d:\documents\facultate\an2\geomcomp\proiect\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<list>
+	<fstream>
+	<algorithm>
+	<string>
+
+1544366628 source:d:\documents\facultate\an2\geomcomp\proiect\forme.cpp
+	"forme.h"
+
+1544366697 d:\documents\facultate\an2\geomcomp\proiect\forme.h
+	<iostream>
+	<cmath>
+	<vector>
+	<list>
+	<fstream>
+	<algorithm>
+	<string>
+
+1544388140 source:e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect\forme.cpp
+	"forme.h"
+
+1544387819 e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect\forme.h
+	<iostream>
+	<cmath>
+	<vector>
+	<list>
+	<fstream>
+	<algorithm>
+	<string>
+	"doubly_linked_list.h"
+
+1544366909 source:e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect\js_output.cpp
+	"js_output.h"
+
+1544388350 e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect\js_output.h
+	"forme.h"
+
+1544388481 source:e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect\main.cpp
+	"forme.h"
+	"js_output.h"
+
+1544386285 source:e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect\doubly_linked_list.cpp
+	"doubly_linked_list.h"
+
+1544384358 e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect\doubly_linked_list.h
+	"js_output.h"
+
+1544386285 source:d:\documents\facultate\an2\geomcomp\proiect_final\proiect\doubly_linked_list.cpp
+	"doubly_linked_list.h"
+
+1544384358 d:\documents\facultate\an2\geomcomp\proiect_final\proiect\doubly_linked_list.h
+	"js_output.h"
+
+1544388350 d:\documents\facultate\an2\geomcomp\proiect_final\proiect\js_output.h
+	"forme.h"
+
+1544393698 d:\documents\facultate\an2\geomcomp\proiect_final\proiect\forme.h
+	<iostream>
+	<cmath>
+	<vector>
+	<list>
+	<fstream>
+	<algorithm>
+	<string>
+	"doubly_linked_list.h"
+
+1544394908 source:d:\documents\facultate\an2\geomcomp\proiect_final\proiect\forme.cpp
+	"forme.h"
+
+1544388646 source:d:\documents\facultate\an2\geomcomp\proiect_final\proiect\js_output.cpp
+	"js_output.h"
+
+1544394175 source:d:\documents\facultate\an2\geomcomp\proiect_final\proiect\main.cpp
+	"forme.h"
+	"js_output.h"
+
+1544416159 source:e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect_\doubly_linked_list.cpp
+	"doubly_linked_list.h"
+
+1544416121 e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect_\doubly_linked_list.h
+	"js_output.h"
+
+1544417928 e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect_\js_output.h
+	"forme.h"
+
+1544417642 e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect_\forme.h
+	<iostream>
+	<cmath>
+	<vector>
+	<list>
+	<fstream>
+	<algorithm>
+	<string>
+	"doubly_linked_list.h"
+
+1544418009 source:e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect_\js_output.cpp
+	"js_output.h"
+
+1544394175 source:e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect_\main.cpp
+	"forme.h"
+	"js_output.h"
+
+1544417697 source:e:\03_facultate\anul doi\sem 1\geometrie computationala\proiect\proiect_\forme.cpp
+	"forme.h"
+
