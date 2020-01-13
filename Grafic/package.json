@@ -1,0 +1,22 @@
+{
+  "name": "grafic",
+  "version": "1.0.0",
+  "description": "Polygon Triangulation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreivladutz/Polygon-Triangulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreivladutz/Polygon-Triangulation/issues"
+  },
+  "homepage": "https://github.com/andreivladutz/Polygon-Triangulation#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

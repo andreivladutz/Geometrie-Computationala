@@ -1,3 +1,5 @@
 PROIECT.cbp
 PROIECT.depend
 PROIECT.layout
+node_modules
+package-lock.json
